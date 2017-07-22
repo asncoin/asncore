@@ -1,0 +1,141 @@
+2017-07-12 16:22:29.341	createrawsendfrom 17APQ64MWhK4Y2hxLwmp78w5DHbfbkoswn {} '[{"create":"stream","name":"proof_of_existence","open":false,"details":{"purpose":"Stores hashes of files"}}]' send
+2017-07-12 16:22:29.359	createrawsendfrom 17APQ64MWhK4Y2hxLwmp78w5DHbfbkoswn {} '[{"create":"stream","name":"users_credentials","open":false,"details":{"purpose":"Stores Users Credentials"}}]' send
+2017-07-12 16:22:29.378	createrawsendfrom 17APQ64MWhK4Y2hxLwmp78w5DHbfbkoswn {} '[{"create":"stream","name":"users_details","open":false,"details":{"purpose":"Stores Users Details"}}]' send
+2017-07-12 16:22:29.400	createrawsendfrom 17APQ64MWhK4Y2hxLwmp78w5DHbfbkoswn {} '[{"create":"stream","name":"users_addresses","open":false,"details":{"purpose":"Stores addresses owned by users"}}]' send
+2017-07-12 16:22:29.419	createrawsendfrom 17APQ64MWhK4Y2hxLwmp78w5DHbfbkoswn {} '[{"create":"stream","name":"users_session","open":false,"details":{"purpose":"Stores session history for users"}}]' send
+2017-07-12 16:22:29.441	createrawsendfrom 17APQ64MWhK4Y2hxLwmp78w5DHbfbkoswn {} '[{"create":"stream","name":"vault","open":false,"details":{"purpose":"Stores documents uploaded by users"}}]' send
+2017-07-12 16:22:29.461	createrawsendfrom 17APQ64MWhK4Y2hxLwmp78w5DHbfbkoswn {} '[{"create":"stream","name":"contract_details","open":false,"details":{"purpose":"Stores basic details of contracts"}}]' send
+2017-07-12 16:22:29.481	createrawsendfrom 17APQ64MWhK4Y2hxLwmp78w5DHbfbkoswn {} '[{"create":"stream","name":"contract_files","open":false,"details":{"purpose":"Stores files related to contracts"}}]' send
+2017-07-12 16:22:29.501	createrawsendfrom 17APQ64MWhK4Y2hxLwmp78w5DHbfbkoswn {} '[{"create":"stream","name":"contract_signatures","open":false,"details":{"purpose":"Stores signatures of contracts"}}]' send
+2017-07-12 16:22:29.526	createrawsendfrom 17APQ64MWhK4Y2hxLwmp78w5DHbfbkoswn {} '[{"create":"stream","name":"contracts_signed","open":false,"details":{"purpose":"Stores the list of contracts signed by each user"}}]' send
+2017-07-12 16:22:29.548	createrawsendfrom 17APQ64MWhK4Y2hxLwmp78w5DHbfbkoswn {} '[{"create":"stream","name":"contract_invited_signees","open":false,"details":{"purpose":"Stores the list of users invited to sign a contract"}}]' send
+2017-07-12 16:22:29.581	subscribe proof_of_existence
+2017-07-12 16:22:29.601	subscribe users_credentials
+2017-07-12 16:22:29.619	subscribe users_details
+2017-07-12 16:22:29.637	subscribe users_addresses
+2017-07-12 16:22:29.654	subscribe users_session
+2017-07-12 16:22:29.671	subscribe vault
+2017-07-12 16:22:29.687	subscribe contract_details
+2017-07-12 16:22:29.704	subscribe contract_files
+2017-07-12 16:22:29.722	subscribe contract_signatures
+2017-07-12 16:22:29.739	subscribe contracts_signed
+2017-07-12 16:22:29.755	subscribe contract_invited_signees
+2017-07-12 16:26:53.628	getinfo
+2017-07-12 16:27:23.646	sto
+2017-07-12 16:27:25.127	stop
+2017-07-12 16:30:42.365	createrawsendfrom {} '[{"create":"stream","name":"proof_of_existence","open":false,"details":{"purpose":"Stores hashes of files"}}]' send
+2017-07-12 16:30:42.381	createrawsendfrom {} '[{"create":"stream","name":"users_credentials","open":false,"details":{"purpose":"Stores Users Credentials"}}]' send
+2017-07-12 16:30:42.394	createrawsendfrom {} '[{"create":"stream","name":"users_details","open":false,"details":{"purpose":"Stores Users Details"}}]' send
+2017-07-12 16:30:42.408	createrawsendfrom {} '[{"create":"stream","name":"users_addresses","open":false,"details":{"purpose":"Stores addresses owned by users"}}]' send
+2017-07-12 16:30:42.421	createrawsendfrom {} '[{"create":"stream","name":"users_session","open":false,"details":{"purpose":"Stores session history for users"}}]' send
+2017-07-12 16:30:42.435	createrawsendfrom {} '[{"create":"stream","name":"vault","open":false,"details":{"purpose":"Stores documents uploaded by users"}}]' send
+2017-07-12 16:30:42.448	createrawsendfrom {} '[{"create":"stream","name":"contract_details","open":false,"details":{"purpose":"Stores basic details of contracts"}}]' send
+2017-07-12 16:30:42.462	createrawsendfrom {} '[{"create":"stream","name":"contract_files","open":false,"details":{"purpose":"Stores files related to contracts"}}]' send
+2017-07-12 16:30:42.476	createrawsendfrom {} '[{"create":"stream","name":"contract_signatures","open":false,"details":{"purpose":"Stores signatures of contracts"}}]' send
+2017-07-12 16:30:42.490	createrawsendfrom {} '[{"create":"stream","name":"contracts_signed","open":false,"details":{"purpose":"Stores the list of contracts signed by each user"}}]' send
+2017-07-12 16:30:42.504	createrawsendfrom {} '[{"create":"stream","name":"contract_invited_signees","open":false,"details":{"purpose":"Stores the list of users invited to sign a contract"}}]' send
+2017-07-12 16:30:42.519	subscribe proof_of_existence
+2017-07-12 16:30:42.534	subscribe users_credentials
+2017-07-12 16:30:42.549	subscribe users_details
+2017-07-12 16:30:42.565	subscribe users_addresses
+2017-07-12 16:30:42.578	subscribe users_session
+2017-07-12 16:30:42.596	subscribe vault
+2017-07-12 16:30:42.623	subscribe contract_details
+2017-07-12 16:30:42.638	subscribe contract_files
+2017-07-12 16:30:42.652	subscribe contract_signatures
+2017-07-12 16:30:42.667	subscribe contracts_signed
+2017-07-12 16:30:42.682	subscribe contract_invited_signees
+2017-07-12 16:34:14.725	createrawsendfrom 1CTX7EGFsbEjPeKLiGS9g47P44BccHEneg {} '[{"create":"stream","name":"proof_of_existence","open":false,"details":{"purpose":"Stores hashes of files"}}]' send
+2017-07-12 16:34:14.743	createrawsendfrom 1CTX7EGFsbEjPeKLiGS9g47P44BccHEneg {} '[{"create":"stream","name":"users_credentials","open":false,"details":{"purpose":"Stores Users Credentials"}}]' send
+2017-07-12 16:34:14.759	createrawsendfrom 1CTX7EGFsbEjPeKLiGS9g47P44BccHEneg {} '[{"create":"stream","name":"users_details","open":false,"details":{"purpose":"Stores Users Details"}}]' send
+2017-07-12 16:34:14.775	createrawsendfrom 1CTX7EGFsbEjPeKLiGS9g47P44BccHEneg {} '[{"create":"stream","name":"users_addresses","open":false,"details":{"purpose":"Stores addresses owned by users"}}]' send
+2017-07-12 16:34:14.791	createrawsendfrom 1CTX7EGFsbEjPeKLiGS9g47P44BccHEneg {} '[{"create":"stream","name":"users_session","open":false,"details":{"purpose":"Stores session history for users"}}]' send
+2017-07-12 16:34:14.806	createrawsendfrom 1CTX7EGFsbEjPeKLiGS9g47P44BccHEneg {} '[{"create":"stream","name":"vault","open":false,"details":{"purpose":"Stores documents uploaded by users"}}]' send
+2017-07-12 16:34:14.822	createrawsendfrom 1CTX7EGFsbEjPeKLiGS9g47P44BccHEneg {} '[{"create":"stream","name":"contract_details","open":false,"details":{"purpose":"Stores basic details of contracts"}}]' send
+2017-07-12 16:34:14.838	createrawsendfrom 1CTX7EGFsbEjPeKLiGS9g47P44BccHEneg {} '[{"create":"stream","name":"contract_files","open":false,"details":{"purpose":"Stores files related to contracts"}}]' send
+2017-07-12 16:34:14.853	createrawsendfrom 1CTX7EGFsbEjPeKLiGS9g47P44BccHEneg {} '[{"create":"stream","name":"contract_signatures","open":false,"details":{"purpose":"Stores signatures of contracts"}}]' send
+2017-07-12 16:34:14.877	createrawsendfrom 1CTX7EGFsbEjPeKLiGS9g47P44BccHEneg {} '[{"create":"stream","name":"contracts_signed","open":false,"details":{"purpose":"Stores the list of contracts signed by each user"}}]' send
+2017-07-12 16:34:14.896	createrawsendfrom 1CTX7EGFsbEjPeKLiGS9g47P44BccHEneg {} '[{"create":"stream","name":"contract_invited_signees","open":false,"details":{"purpose":"Stores the list of users invited to sign a contract"}}]' send
+2017-07-12 16:34:14.911	subscribe proof_of_existence
+2017-07-12 16:34:14.930	subscribe users_credentials
+2017-07-12 16:34:14.952	subscribe users_details
+2017-07-12 16:34:14.974	subscribe users_addresses
+2017-07-12 16:34:14.993	subscribe users_session
+2017-07-12 16:34:15.012	subscribe vault
+2017-07-12 16:34:15.030	subscribe contract_details
+2017-07-12 16:34:15.050	subscribe contract_files
+2017-07-12 16:34:15.068	subscribe contract_signatures
+2017-07-12 16:34:15.084	subscribe contracts_signed
+2017-07-12 16:34:15.102	subscribe contract_invited_signees
+2017-07-13 00:20:39.164	getinfo
+2017-07-13 00:33:29.571	getinfo
+2017-07-13 00:33:54.633	getinfo
+2017-07-13 00:34:07.534	getinfo
+2017-07-13 00:34:52.620	getinfo
+2017-07-13 00:34:53.380	getinfo
+2017-07-13 00:34:53.978	getinfo
+2017-07-13 00:35:06.338	stop
+2017-07-13 00:39:17.471	createrawsendfrom {} '[{"create":"stream","name":"proof_of_existence","open":false,"details":{"purpose":"Stores hashes of files"}}]' send
+2017-07-13 00:39:17.485	createrawsendfrom {} '[{"create":"stream","name":"users_credentials","open":false,"details":{"purpose":"Stores Users Credentials"}}]' send
+2017-07-13 00:39:17.499	createrawsendfrom {} '[{"create":"stream","name":"users_details","open":false,"details":{"purpose":"Stores Users Details"}}]' send
+2017-07-13 00:39:17.514	createrawsendfrom {} '[{"create":"stream","name":"users_addresses","open":false,"details":{"purpose":"Stores addresses owned by users"}}]' send
+2017-07-13 00:39:17.528	createrawsendfrom {} '[{"create":"stream","name":"users_session","open":false,"details":{"purpose":"Stores session history for users"}}]' send
+2017-07-13 00:39:17.543	createrawsendfrom {} '[{"create":"stream","name":"vault","open":false,"details":{"purpose":"Stores documents uploaded by users"}}]' send
+2017-07-13 00:39:17.558	createrawsendfrom {} '[{"create":"stream","name":"contract_details","open":false,"details":{"purpose":"Stores basic details of contracts"}}]' send
+2017-07-13 00:39:17.573	createrawsendfrom {} '[{"create":"stream","name":"contract_files","open":false,"details":{"purpose":"Stores files related to contracts"}}]' send
+2017-07-13 00:39:17.587	createrawsendfrom {} '[{"create":"stream","name":"contract_signatures","open":false,"details":{"purpose":"Stores signatures of contracts"}}]' send
+2017-07-13 00:39:17.601	createrawsendfrom {} '[{"create":"stream","name":"contracts_signed","open":false,"details":{"purpose":"Stores the list of contracts signed by each user"}}]' send
+2017-07-13 00:39:17.615	createrawsendfrom {} '[{"create":"stream","name":"contract_invited_signees","open":false,"details":{"purpose":"Stores the list of users invited to sign a contract"}}]' send
+2017-07-13 00:39:17.629	subscribe proof_of_existence
+2017-07-13 00:39:17.644	subscribe users_credentials
+2017-07-13 00:39:17.658	subscribe users_details
+2017-07-13 00:39:17.675	subscribe users_addresses
+2017-07-13 00:39:17.690	subscribe users_session
+2017-07-13 00:39:17.705	subscribe vault
+2017-07-13 00:39:17.720	subscribe contract_details
+2017-07-13 00:39:17.734	subscribe contract_files
+2017-07-13 00:39:17.750	subscribe contract_signatures
+2017-07-13 00:39:17.767	subscribe contracts_signed
+2017-07-13 00:39:17.783	subscribe contract_invited_signees
+2017-07-13 00:40:10.081	getaddresses
+2017-07-13 00:43:22.640	createrawsendfrom 1PifnFFXpm32Vq3YuvYK9vSHdnNCtEPx4y {} '[{"create":"stream","name":"proof_of_existence","open":false,"details":{"purpose":"Stores hashes of files"}}]' send
+2017-07-13 00:43:22.656	createrawsendfrom 1PifnFFXpm32Vq3YuvYK9vSHdnNCtEPx4y {} '[{"create":"stream","name":"users_credentials","open":false,"details":{"purpose":"Stores Users Credentials"}}]' send
+2017-07-13 00:43:22.673	createrawsendfrom 1PifnFFXpm32Vq3YuvYK9vSHdnNCtEPx4y {} '[{"create":"stream","name":"users_details","open":false,"details":{"purpose":"Stores Users Details"}}]' send
+2017-07-13 00:43:22.689	createrawsendfrom 1PifnFFXpm32Vq3YuvYK9vSHdnNCtEPx4y {} '[{"create":"stream","name":"users_addresses","open":false,"details":{"purpose":"Stores addresses owned by users"}}]' send
+2017-07-13 00:43:22.705	createrawsendfrom 1PifnFFXpm32Vq3YuvYK9vSHdnNCtEPx4y {} '[{"create":"stream","name":"users_session","open":false,"details":{"purpose":"Stores session history for users"}}]' send
+2017-07-13 00:43:22.721	createrawsendfrom 1PifnFFXpm32Vq3YuvYK9vSHdnNCtEPx4y {} '[{"create":"stream","name":"vault","open":false,"details":{"purpose":"Stores documents uploaded by users"}}]' send
+2017-07-13 00:43:22.737	createrawsendfrom 1PifnFFXpm32Vq3YuvYK9vSHdnNCtEPx4y {} '[{"create":"stream","name":"contract_details","open":false,"details":{"purpose":"Stores basic details of contracts"}}]' send
+2017-07-13 00:43:22.753	createrawsendfrom 1PifnFFXpm32Vq3YuvYK9vSHdnNCtEPx4y {} '[{"create":"stream","name":"contract_files","open":false,"details":{"purpose":"Stores files related to contracts"}}]' send
+2017-07-13 00:43:22.770	createrawsendfrom 1PifnFFXpm32Vq3YuvYK9vSHdnNCtEPx4y {} '[{"create":"stream","name":"contract_signatures","open":false,"details":{"purpose":"Stores signatures of contracts"}}]' send
+2017-07-13 00:43:22.786	createrawsendfrom 1PifnFFXpm32Vq3YuvYK9vSHdnNCtEPx4y {} '[{"create":"stream","name":"contracts_signed","open":false,"details":{"purpose":"Stores the list of contracts signed by each user"}}]' send
+2017-07-13 00:43:22.802	createrawsendfrom 1PifnFFXpm32Vq3YuvYK9vSHdnNCtEPx4y {} '[{"create":"stream","name":"contract_invited_signees","open":false,"details":{"purpose":"Stores the list of users invited to sign a contract"}}]' send
+2017-07-13 00:43:22.818	subscribe proof_of_existence
+2017-07-13 00:43:22.836	subscribe users_credentials
+2017-07-13 00:43:22.853	subscribe users_details
+2017-07-13 00:43:22.869	subscribe users_addresses
+2017-07-13 00:43:22.885	subscribe users_session
+2017-07-13 00:43:22.902	subscribe vault
+2017-07-13 00:43:22.921	subscribe contract_details
+2017-07-13 00:43:22.941	subscribe contract_files
+2017-07-13 00:43:22.965	subscribe contract_signatures
+2017-07-13 00:43:22.982	subscribe contracts_signed
+2017-07-13 00:43:22.997	subscribe contract_invited_signees
+2017-07-13 00:43:42.734	getaddresses
+2017-07-13 00:43:49.853	getmultibalances
+2017-07-13 00:44:48.313	send 129qsogBMckB6qmwRpoH3QrmwUVAb6uqZN 10
+2017-07-13 01:02:07.861	getinfo
+2017-07-13 01:05:41.141	send 15BP4E7Ag6PsmMTpB5xWKE89toiSeAbQT9 450000000
+2017-07-15 03:05:04.513	send 169uxGc8yxs4hmQNoBCJE3QyUah3pFpXj7 20
+2017-07-15 03:05:41.967	getmultibalances
+2017-07-20 07:49:01.696	getinfo
+2017-07-20 10:06:58.202	getmultibalances
+2017-07-21 07:50:28.289	getmultibalances
+2017-07-21 07:53:12.568	getmultibalances
+2017-07-21 07:54:16.043	getpeerinfo
+2017-07-21 07:57:51.855	getruntimeparams miningturnover 1
+2017-07-21 07:58:04.125	setruntimeparams miningturnover 1
+2017-07-21 07:59:11.154	setruntimeparam miningturnover 1
+2017-07-21 08:01:07.853	setruntimeparam miningturnover 0.5
+2017-07-21 08:02:34.593	setruntimeparam miningturnover 0.5
+2017-07-21 08:04:55.888	setruntimeparam mineemptyrounds 3
+2017-07-21 08:13:10.680	setruntimeparam miningturnover 1
